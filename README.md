@@ -18,7 +18,7 @@ JobGenie is an AI-powered Streamlit web application that analyzes uploaded resum
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/jobgenie.git
+git clone https://github.com/Jainsanskar/jobgenie.git
 cd jobgenie
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
@@ -75,3 +75,4 @@ Then open the app in your browser and upload your resume to get started.
 - [OpenAI](https://platform.openai.com/)
 - [Streamlit](https://streamlit.io/)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
+
